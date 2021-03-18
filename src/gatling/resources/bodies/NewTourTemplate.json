@@ -1,0 +1,6 @@
+{
+  "tourPackageCode": "${tourPackageCode}",
+  "title": "${title}",
+  "duration": "${duration}",
+  "price": "${price}"
+}

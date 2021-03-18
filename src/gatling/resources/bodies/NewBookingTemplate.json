@@ -1,0 +1,6 @@
+{
+  "customerId": ${customerId},
+  "participants": ${participants},
+  "pickupDateTime": "${pickupDateTime}",
+  "pickupLocation": "${pickupLocation}"
+}
